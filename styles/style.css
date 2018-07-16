@@ -29,8 +29,7 @@ ul > li#nav-item a:visited {
     text-decoration: none;
 }
 ul > li#nav-item a:hover {
-    background-color: #dd226a;
-    color: black;
+    color: #dd226a;
     text-decoration: underline;
 }
 ul > li#nav-item a:active {
