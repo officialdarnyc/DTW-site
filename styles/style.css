@@ -22,16 +22,20 @@ ul > li#nav-item {
 }
 ul > li#nav-item a:link {
     color: #0b75c1;
+    text-decoration: none;
 }
 ul > li#nav-item a:visited {
     color: #0b75c1;
+    text-decoration: none;
 }
 ul > li#nav-item a:hover {
     background-color: #dd226a;
     color: black;
+    text-decoration: underline;
 }
 ul > li#nav-item a:active {
     color: #15cbc5;
+    text-decoration: underline;
 }
 .glyphicon {
     float: left;
